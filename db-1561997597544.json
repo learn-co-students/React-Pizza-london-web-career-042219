@@ -2,7 +2,7 @@
   "pizzas": [
     {
       "id": 1,
-      "topping": "Plain and swishy",
+      "topping": "Plain",
       "size": "Small",
       "vegetarian": true
     },
@@ -10,7 +10,7 @@
       "id": 2,
       "topping": "Pepperoni",
       "size": "Small",
-      "vegetarian": true
+      "vegetarian": false
     },
     {
       "id": 3,
@@ -32,9 +32,9 @@
     },
     {
       "id": 6,
-      "topping": "Spinach and cheese",
-      "size": "Large",
-      "vegetarian": false
+      "topping": "Spinach",
+      "size": "Medium",
+      "vegetarian": true
     },
     {
       "id": 7,
